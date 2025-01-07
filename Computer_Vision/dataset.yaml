@@ -1,0 +1,6 @@
+path: data
+train: images/train
+val: images/val
+
+nc: 1  # Number of classes (1 for 'defect')
+names: ['defect']
